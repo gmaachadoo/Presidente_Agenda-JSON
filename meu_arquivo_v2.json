@@ -1,0 +1,38 @@
+[
+    {
+        "data": "2024-08-21T09:00:00-03:00",
+        "titulo": "Ministro da Fazenda, Fernando Haddad",
+        "horario": "09h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "data": "2024-08-21T09:30:00-03:00",
+        "titulo": "Reunião com fundos de pensão",
+        "horario": "09h30",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "data": "2024-08-21T11:30:00-03:00",
+        "titulo": "Governador do Rio Grande do Sul, Eduardo Leite",
+        "horario": "11h30",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "data": "2024-08-21T14:00:00-03:00",
+        "titulo": "Cerimônia de assinatura do Pacto pela Transformação Ecológica entre os Três Poderes do Estado Brasileiro",
+        "horario": "14h00",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "data": "2024-08-21T15:30:00-03:00",
+        "titulo": "Reunião com representantes do setor de celulose",
+        "horario": "15h30",
+        "local": "Palácio do Planalto"
+    },
+    {
+        "data": "2024-08-21T17:30:00-03:00",
+        "titulo": "Ministro da Secretaria Extraordinária para Apoio à Reconstrução do Rio Grande do Sul, Paulo Pimenta",
+        "horario": "17h30",
+        "local": "Palácio do Planalto"
+    }
+]
